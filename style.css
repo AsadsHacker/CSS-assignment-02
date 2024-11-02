@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    
+}
+img{
+    display: block;
+    margin: auto;
+}
+.headings{
+    color: rgb(33, 86, 165);
+}
+ol{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.outer {
+    background-color: #8a8484;
+    padding: 30px; 
+}
+
+.inner {
+    background-color: #50bbdb; 
+    padding: 30px; 
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.bgcolor{
+    background-color: rgb(145, 142, 145);
+}
+.bg{
+    background-color: rgb(161, 132, 80);
+}
+.grey{
+    background-color: rgb(145, 142, 145);
+}
